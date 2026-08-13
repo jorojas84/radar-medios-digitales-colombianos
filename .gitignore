@@ -1,0 +1,13 @@
+# Credenciales locales y entorno virtual recreable.
+.env
+.venv/
+.DS_Store
+AGENTS.md
+pendientes.txt
+# Archivos generados automáticamente por Python y las herramientas de pruebas.
+__pycache__/
+*.py[cod]
+# Logs rotativos y reportes locales no pertenecen al código fuente.
+logs/
+.coverage
+.pytest_cache/

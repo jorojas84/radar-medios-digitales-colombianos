@@ -1,0 +1,4 @@
+# Dependencias de ejecución de la aplicación.
+# psycopg2-binary conserva el import `psycopg2` usado por el código.
+psycopg2-binary==2.9.12
+python-dotenv==1.1.1
