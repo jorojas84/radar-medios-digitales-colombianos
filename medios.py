@@ -69,21 +69,18 @@ medios = [
         "formato": "sitemap-news",
         "activo": True,
     },
-    # El País vuelve al formato RSS estándar.
     {
         "nombre": "El País",
         "url_fuente": "https://www.elpais.com.co/arc/outboundfeeds/rss/?outputType=xml",
         "formato": "rss",
         "activo": True,
     },
-    # Infobae publica un sitemap de Google News limitado a Colombia.
     {
         "nombre": "Infobae Colombia",
         "url_fuente": "https://www.infobae.com/arc/outboundfeeds/news-sitemap/category/colombia/",
         "formato": "sitemap-news",
         "activo": True,
     },
-    # Estos sitemaps no incluyen título; se construye un respaldo desde la URL.
     {
         "nombre": "Blu Radio",
         "url_fuente": "https://www.bluradio.com/sitemap-latest.xml",

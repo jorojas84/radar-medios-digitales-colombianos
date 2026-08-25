@@ -1,36 +1,23 @@
-"""Aísla la configuración y las operaciones PostgreSQL de la aplicación.
+"""Configuración y operaciones PostgreSQL de la aplicación.
 
-El resto del proyecto trabaja con diccionarios de noticias y no necesita saber
-cómo se construye el SQL. Este módulo centraliza:
-
-- La lectura segura de variables de entorno.
-- Los timeouts, keepalives y reintentos de conexión.
-- El upsert individual y por lotes.
-- El registro del resultado de cada medio.
-
-Ninguna función de escritura ejecuta ``commit``. main.py conserva esa decisión
-para confirmar en una misma transacción las noticias y su log.
+Las escrituras no hacen ``commit``; el coordinador controla cada transacción.
 """
 
-# Biblioteca estándar para configuración, logs, esperas y rutas portables.
 import logging
 import os
 import time
 from pathlib import Path
 
-# psycopg2 implementa el protocolo PostgreSQL y execute_values agrupa INSERTs.
 import psycopg2
 from dotenv import load_dotenv
 from psycopg2.extensions import connection as PgConnection
 from psycopg2.extras import execute_values
 
 
-# Se carga siempre el .env ubicado junto a este archivo. load_dotenv no
-# sobrescribe variables ya definidas por systemd o por la terminal, de modo que
-# producción puede reemplazar la configuración local sin editar el código.
+# Las variables del sistema prevalecen sobre el archivo local.
 load_dotenv(Path(__file__).with_name(".env"))
-# Compartir el logger integra estos mensajes en la cronología de main.py.
 logger = logging.getLogger("app")
+
 
 def _leer_entero_configuracion(
     nombre: str,
@@ -72,14 +59,12 @@ def crear_conexion() -> PgConnection:
     Los reintentos cubren fallos breves del túnel o del servidor. Los timeouts
     evitan que un proceso automatizado permanezca bloqueado indefinidamente.
     """
-    # Estas cuatro variables no tienen un valor seguro que se pueda inventar.
     variables_requeridas = ("DB_HOST", "DB_NAME", "DB_USER", "DB_PASSWORD")
     faltantes = [nombre for nombre in variables_requeridas if not os.getenv(nombre)]
 
     if faltantes:
         raise ValueError(f"Faltan variables de entorno: {', '.join(faltantes)}")
 
-    # Los rangos evitan puertos imposibles, esperas infinitas y reintentos nulos.
     puerto = _leer_entero_configuracion("DB_PORT", 5432, 1, 65535)
     connect_timeout = _leer_entero_configuracion(
         "DB_CONNECT_TIMEOUT", 10, 1, 300
@@ -112,16 +97,13 @@ def crear_conexion() -> PgConnection:
         "keepalives_interval": 10,
         "keepalives_count": 3,
     }
-    # El primer intento ocurre inmediatamente; las esperas aparecen solo tras fallar.
     for intento in range(1, intentos + 1):
         try:
             return psycopg2.connect(**opciones_conexion)
         except psycopg2.OperationalError:
-            # En el último intento se conserva la excepción original para diagnóstico.
             if intento == intentos:
                 raise
 
-            # Espera exponencial: 1, 2, 4... según el valor base configurado.
             espera = espera_base * (2 ** (intento - 1))
             logger.warning(
                 "PostgreSQL no respondió; reintento %s de %s en %s segundos",
@@ -139,11 +121,9 @@ def guardar_noticias(conn: PgConnection, noticias: list[dict]) -> tuple[int, int
     viajes entre Python y PostgreSQL y mantiene atómico el lote de cada medio.
     El commit permanece bajo control de main.py.
     """
-    # Evitar un INSERT vacío simplifica el SQL y produce un resultado predecible.
     if not noticias:
         return 0, 0
 
-    # Las tuplas respetan exactamente el orden de columnas declarado en el INSERT.
     filas = [
         (
             noticia["titulo"],
@@ -154,7 +134,6 @@ def guardar_noticias(conn: PgConnection, noticias: list[dict]) -> tuple[int, int
         for noticia in noticias
     ]
 
-    # Si una sola fila provoca error, PostgreSQL invalida el lote y main hace rollback.
     with conn.cursor() as cursor:
         resultados = execute_values(
             cursor,
@@ -174,7 +153,13 @@ def guardar_noticias(conn: PgConnection, noticias: list[dict]) -> tuple[int, int
                 fecha_publicacion = COALESCE(
                     EXCLUDED.fecha_publicacion,
                     noticias.fecha_publicacion
-                )
+                ),
+                -- Un título nuevo invalida las entidades del título anterior.
+                entidades_detectadas = CASE
+                    WHEN noticias.titulo IS DISTINCT FROM EXCLUDED.titulo
+                    THEN FALSE
+                    ELSE noticias.entidades_detectadas
+                END
             -- Se devuelve una bandera por fila para construir los conteos del log.
             RETURNING (xmax = 0) AS es_nueva
             """,
@@ -182,10 +167,124 @@ def guardar_noticias(conn: PgConnection, noticias: list[dict]) -> tuple[int, int
             fetch=True,
         )
 
-    # Cada resultado contiene una tupla de una posición: (es_nueva,).
+        # Una noticia pendiente no debe conservar entidades de un título anterior.
+        cursor.execute(
+            """
+            DELETE FROM entidades
+            USING noticias
+            WHERE entidades.noticia_id = noticias.id
+              AND noticias.url = ANY(%s)
+              AND noticias.entidades_detectadas IS FALSE
+            """,
+            ([noticia["url"] for noticia in noticias],),
+        )
+
     nuevas = sum(1 for resultado in resultados if resultado[0])
     ya_existentes = len(resultados) - nuevas
     return nuevas, ya_existentes
+
+
+def obtener_noticias_pendientes(
+    conn: PgConnection,
+    limite: int = 100,
+) -> list[dict]:
+    """Obtiene titulares todavía no procesados y bloquea ese lote.
+
+    ``SKIP LOCKED`` permite que dos workers no tomen la misma noticia. El
+    bloqueo dura hasta el commit que guarda sus entidades.
+    """
+    if limite < 1:
+        raise ValueError("El límite debe ser mayor que cero")
+
+    with conn.cursor() as cursor:
+        cursor.execute(
+            """
+            SELECT id, titulo
+            FROM noticias
+            WHERE titulo IS NOT NULL
+              AND btrim(titulo) <> ''
+              AND entidades_detectadas IS NOT TRUE
+            ORDER BY descubierto_en, id
+            LIMIT %s
+            FOR UPDATE SKIP LOCKED
+            """,
+            (limite,),
+        )
+        return [
+            {"id": fila[0], "titulo": fila[1]}
+            for fila in cursor.fetchall()
+        ]
+
+
+def guardar_entidades(
+    conn: PgConnection,
+    resultados: list[tuple[object, list[dict]]],
+) -> None:
+    """Reemplaza las menciones de un lote y marca sus noticias como detectadas.
+
+    La función no confirma la transacción. Así, una falla al insertar una
+    mención revierte tanto las entidades como las marcas del lote completo.
+    """
+    if not resultados:
+        return
+
+    ids = [noticia_id for noticia_id, _ in resultados]
+
+    with conn.cursor() as cursor:
+        # Se eliminan las menciones anteriores para que el análisis sea reemplazable
+        # si se vuelve a procesar un titular después de cambiar el modelo.
+        cursor.execute(
+            "DELETE FROM entidades WHERE noticia_id = ANY(%s::uuid[])",
+            (ids,),
+        )
+
+        # Una noticia puede no tener entidades; en ese caso no se ejecuta INSERT,
+        # pero sí se marca como procesada más abajo.
+        filas = [
+            (
+                noticia_id,
+                entidad["texto"],
+                entidad["texto_normalizado"],
+                entidad.get("entidad_canonica", entidad["texto_normalizado"]),
+                entidad.get("fuentes_deteccion", []),
+                entidad["tipo"],
+                entidad["inicio"],
+                entidad["fin"],
+            )
+            for noticia_id, entidades in resultados
+            for entidad in entidades
+        ]
+
+        if filas:
+            # execute_values inserta todas las menciones del lote en una operación.
+            execute_values(
+                cursor,
+                """
+                INSERT INTO entidades (
+                    noticia_id,
+                    texto,
+                    texto_normalizado,
+                    entidad_canonica,
+                    fuentes_deteccion,
+                    tipo,
+                    inicio,
+                    fin
+                )
+                VALUES %s
+                """,
+                filas,
+            )
+
+        # La marca se actualiza en la misma transacción que el INSERT. Si algo falla,
+        # el rollback conserva la noticia como pendiente para reintentarlo.
+        cursor.execute(
+            """
+            UPDATE noticias
+            SET entidades_detectadas = TRUE
+            WHERE id = ANY(%s::uuid[])
+            """,
+            (ids,),
+        )
 
 
 def guardar_log(
