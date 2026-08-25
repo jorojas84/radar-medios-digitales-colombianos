@@ -2,3 +2,6 @@
 # psycopg2-binary conserva el import `psycopg2` usado por el código.
 psycopg2-binary==2.9.12
 python-dotenv==1.1.1
+# PyTorch ejecuta BETO en CPU; no se necesita una GPU para este worker.
+torch==2.13.0
+transformers==4.57.1

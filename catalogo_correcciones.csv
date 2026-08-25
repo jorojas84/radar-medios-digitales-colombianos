@@ -1,0 +1,1492 @@
+texto_normalizado,tipo_correcto,estado
+chequia,LOC,aprobado
+dolce & gabbana,ORG,aprobado
+odinsa vías,ORG,aprobado
+estonia,LOC,aprobado
+fable,ORG,aprobado
+donnarumma,PER,aprobado
+downdetector,ORG,aprobado
+drogas la rebaja,ORG,aprobado
+arabia saudita,LOC,aprobado
+arabia saudí,LOC,aprobado
+burkina faso,LOC,aprobado
+catar,LOC,aprobado
+corea,LOC,aprobado
+corea del norte,LOC,aprobado
+dinamarca,LOC,aprobado
+emiratos árabes unidos,LOC,aprobado
+jamaica,LOC,aprobado
+luxemburgo,LOC,aprobado
+mauricio,LOC,aprobado
+nigeria,LOC,aprobado
+omán,LOC,aprobado
+serbia,LOC,aprobado
+siria,LOC,aprobado
+coachella 2026,ORG,aprobado
+mundial 2026,,descartado
+toronto 2026,ORG,aprobado
+vallenato al parque 2026,ORG,aprobado
+wimbledon 2026,ORG,aprobado
+colombia,LOC,aprobado
+abelardo de la espriella,PER,aprobado
+bogotá,LOC,aprobado
+petro,PER,aprobado
+venezuela,LOC,aprobado
+cali,LOC,aprobado
+de la espriella,PER,aprobado
+gustavo petro,PER,aprobado
+medellín,LOC,aprobado
+estados unidos,LOC,aprobado
+barranquilla,LOC,aprobado
+trump,PER,aprobado
+cartagena,LOC,aprobado
+irán,LOC,aprobado
+españa,LOC,aprobado
+antioquia,LOC,aprobado
+ee. uu,LOC,aprobado
+cauca,LOC,aprobado
+argentina,LOC,aprobado
+policía,ORG,aprobado
+méxico,LOC,aprobado
+cepeda,PER,aprobado
+brasil,LOC,aprobado
+ejército,ORG,aprobado
+paloma valencia,PER,aprobado
+santander,LOC,aprobado
+shakira,PER,aprobado
+fifa,ORG,aprobado
+francia,LOC,aprobado
+portugal,LOC,aprobado
+eln,ORG,aprobado
+tolima,LOC,aprobado
+ecuador,LOC,aprobado
+perú,LOC,aprobado
+sinuano,,descartado
+yulixa toloza,PER,aprobado
+cúcuta,LOC,aprobado
+cundinamarca,LOC,aprobado
+álvaro uribe,PER,aprobado
+valle,LOC,aprobado
+clan del golfo,ORG,aprobado
+atlántico,LOC,aprobado
+junior,ORG,aprobado
+cne,ORG,aprobado
+suiza,LOC,aprobado
+bolívar,LOC,aprobado
+caribe,LOC,aprobado
+bucaramanga,LOC,aprobado
+chocó,LOC,aprobado
+pereira,LOC,aprobado
+inglaterra,LOC,aprobado
+córdoba,LOC,aprobado
+ee.uu,LOC,aprobado
+boyacá,LOC,aprobado
+ghana,LOC,aprobado
+israel,LOC,aprobado
+china,LOC,aprobado
+abelardo,PER,aprobado
+ibagué,LOC,aprobado
+santa fe,LOC,aprobado
+europa,LOC,aprobado
+buenaventura,LOC,aprobado
+cuba,LOC,aprobado
+nacional,,descartado
+valle del cauca,LOC,aprobado
+ungrd,ORG,aprobado
+quindío,LOC,aprobado
+huila,LOC,aprobado
+norte de santander,LOC,aprobado
+transmilenio,ORG,aprobado
+uzbekistán,LOC,aprobado
+la guajira,LOC,aprobado
+meta,LOC,aprobado
+onu,ORG,aprobado
+presidencia,ORG,aprobado
+magdalena,LOC,aprobado
+jep,ORG,aprobado
+supersalud,ORG,aprobado
+canadá,LOC,aprobado
+manizales,LOC,aprobado
+antioqueñita,ORG,aprobado
+nueva york,LOC,aprobado
+mindefensa,ORG,aprobado
+paraguay,LOC,aprobado
+uribe,PER,aprobado
+montería,LOC,aprobado
+marruecos,LOC,aprobado
+corte,ORG,aprobado
+chontico,ORG,aprobado
+ormuz,LOC,aprobado
+chile,LOC,aprobado
+soledad,LOC,aprobado
+karol g,PER,aprobado
+dian,ORG,aprobado
+italia,LOC,aprobado
+alemania,LOC,aprobado
+eps,ORG,aprobado
+japón,LOC,aprobado
+catatumbo,LOC,aprobado
+américa,LOC,aprobado
+ideam,ORG,aprobado
+nasa,ORG,aprobado
+noruega,LOC,aprobado
+américa latina,LOC,aprobado
+rusia,LOC,aprobado
+ucrania,LOC,aprobado
+nariño,LOC,aprobado
+unp,ORG,aprobado
+uruguay,LOC,aprobado
+panamá,LOC,aprobado
+soacha,LOC,aprobado
+guaviare,LOC,aprobado
+rd congo,LOC,aprobado
+latinoamérica,LOC,aprobado
+américa de cali,ORG,aprobado
+arauca,LOC,aprobado
+casa de nariño,ORG,aprobado
+cancillería,ORG,aprobado
+cesar,LOC,aprobado
+westcol,PER,aprobado
+alcaldía,ORG,aprobado
+galán,PER,aprobado
+mhoni vidente,PER,aprobado
+dimayor,ORG,aprobado
+caracas,LOC,aprobado
+neymar,PER,aprobado
+pacífico,LOC,aprobado
+bolivia,LOC,aprobado
+sucre,LOC,aprobado
+baloto,ORG,aprobado
+cabo verde,LOC,aprobado
+congo,LOC,aprobado
+sic,ORG,aprobado
+inpec,ORG,aprobado
+caldas,LOC,aprobado
+risaralda,LOC,aprobado
+reino unido,LOC,aprobado
+líbano,LOC,aprobado
+sena,ORG,aprobado
+sincelejo,LOC,aprobado
+itagüí,LOC,aprobado
+deportivo cali,ORG,aprobado
+el dorado,LOC,aprobado
+apple,ORG,aprobado
+calarcá,PER,aprobado
+eeuu,LOC,aprobado
+egipto,LOC,aprobado
+bélgica,LOC,aprobado
+ee,ORG,aprobado
+infantino,PER,aprobado
+icbf,ORG,aprobado
+spacex,ORG,aprobado
+villavicencio,LOC,aprobado
+icetex,ORG,aprobado
+avianca,ORG,aprobado
+dane,ORG,aprobado
+nueva eps,ORG,aprobado
+croacia,LOC,aprobado
+restrepo,PER,aprobado
+costa rica,LOC,aprobado
+el campín,LOC,aprobado
+minhacienda,ORG,aprobado
+gobierno de la espriella,ORG,aprobado
+j balvin,PER,aprobado
+neiva,LOC,aprobado
+sudáfrica,LOC,aprobado
+riohacha,LOC,aprobado
+tricolor,ORG,aprobado
+barcelona,ORG,aprobado
+moe,ORG,aprobado
+la espriella,PER,aprobado
+casa blanca,LOC,aprobado
+la guaira,LOC,aprobado
+universidad nacional,ORG,aprobado
+washington,LOC,aprobado
+openai,ORG,aprobado
+james,PER,aprobado
+ani,ORG,aprobado
+erling haaland,PER,aprobado
+países bajos,LOC,aprobado
+yeison jiménez,PER,aprobado
+andi,ORG,aprobado
+minsalud,ORG,aprobado
+quibdó,LOC,aprobado
+barrancabermeja,LOC,aprobado
+cartagena de indias,LOC,aprobado
+malambo,LOC,aprobado
+palmira,LOC,aprobado
+sae,ORG,aprobado
+ant,ORG,aprobado
+pasto,LOC,aprobado
+jordania,LOC,aprobado
+netanyahu,PER,aprobado
+suecia,LOC,aprobado
+dorado,LOC,aprobado
+nequi,ORG,aprobado
+usaquén,LOC,aprobado
+tibú,LOC,aprobado
+benfica,ORG,aprobado
+turquía,LOC,aprobado
+haaland,PER,aprobado
+la caribeña,ORG,aprobado
+puerto colombia,LOC,aprobado
+república democrática del congo,LOC,aprobado
+vozinha,PER,aprobado
+haití,LOC,aprobado
+kennedy,LOC,aprobado
+nicaragua,LOC,aprobado
+afinia,ORG,aprobado
+el paisita,ORG,aprobado
+emcali,ORG,aprobado
+escocia,LOC,aprobado
+marbelle,PER,aprobado
+senegal,LOC,aprobado
+paisita,ORG,aprobado
+paloma,PER,aprobado
+argelia,LOC,aprobado
+colpensiones,ORG,aprobado
+valencia,LOC,aprobado
+asocapitales,ORG,aprobado
+manchester city,ORG,aprobado
+parís,LOC,aprobado
+ue,ORG,aprobado
+boca juniors,ORG,aprobado
+epm,ORG,aprobado
+feid,PER,aprobado
+fenalco,ORG,aprobado
+austria,LOC,aprobado
+car,ORG,aprobado
+minminas,ORG,aprobado
+putumayo,LOC,aprobado
+australia,LOC,aprobado
+maluma,PER,aprobado
+mintrabajo,ORG,aprobado
+ocaña,LOC,aprobado
+rionegro,LOC,aprobado
+santurbán,LOC,aprobado
+fajardo,PER,aprobado
+india,LOC,aprobado
+universidad de antioquia,ORG,aprobado
+vaticano,LOC,aprobado
+cerro matoso,ORG,aprobado
+envigado,LOC,aprobado
+florida,LOC,aprobado
+gobierno de de la espriella,ORG,aprobado
+lula,PER,aprobado
+briceño,LOC,aprobado
+caquetá,LOC,aprobado
+colombiamoda,ORG,aprobado
+costa de marfil,LOC,aprobado
+curazao,LOC,aprobado
+defensores de la patria,ORG,aprobado
+epa colombia,ORG,aprobado
+irak,LOC,aprobado
+peru,LOC,aprobado
+procuraduria,ORG,aprobado
+uu,LOC,aprobado
+anthropic,ORG,aprobado
+espriella,PER,aprobado
+los costeños,ORG,aprobado
+nueva zelanda,LOC,aprobado
+sisbén,ORG,aprobado
+caf,ORG,aprobado
+corea del sur,LOC,aprobado
+el salvador,LOC,aprobado
+invías,ORG,aprobado
+metro de bogotá,ORG,aprobado
+tiktok,ORG,aprobado
+ivan cepeda,PER,aprobado
+oea,ORG,aprobado
+suba,LOC,aprobado
+ferrari,ORG,aprobado
+liverpool,ORG,aprobado
+tesla,ORG,aprobado
+bts,ORG,aprobado
+el tambo,LOC,aprobado
+latam,ORG,aprobado
+rcn,ORG,aprobado
+sierra nevada,LOC,aprobado
+yumbo,LOC,aprobado
+canacol,ORG,aprobado
+jhon jáder durán,PER,aprobado
+bosa,LOC,aprobado
+corferias,ORG,aprobado
+jamundí,LOC,aprobado
+morat,ORG,aprobado
+rosalía,PER,aprobado
+turbaco,LOC,aprobado
+anla,ORG,aprobado
+bosnia,LOC,aprobado
+brent,ORG,aprobado
+galapa,LOC,aprobado
+lili pink,ORG,aprobado
+pogacar,PER,aprobado
+xm,ORG,aprobado
+anif,ORG,aprobado
+banrep,ORG,aprobado
+bid,ORG,aprobado
+dimar,ORG,aprobado
+hollywood,ORG,aprobado
+otan,ORG,aprobado
+tailandia,LOC,aprobado
+urabá,LOC,aprobado
+ancelotti,PER,aprobado
+arjona,LOC,aprobado
+bad bunny,PER,aprobado
+bello,LOC,aprobado
+creg,ORG,aprobado
+girón,LOC,aprobado
+mafe carrascal,PER,aprobado
+baranoa,LOC,aprobado
+hidroituango,ORG,aprobado
+tame,LOC,aprobado
+tumaco,LOC,aprobado
+uganda,LOC,aprobado
+zelenski,PER,aprobado
+buga,LOC,aprobado
+cidh,ORG,aprobado
+coosalud,ORG,aprobado
+juanda caribe,PER,aprobado
+medio oriente,LOC,aprobado
+polymarket,ORG,aprobado
+república checa,LOC,aprobado
+república dominicana,LOC,aprobado
+sudamérica,LOC,aprobado
+wall street,LOC,aprobado
+andesco,ORG,aprobado
+aston villa,ORG,aprobado
+cerrejón,ORG,aprobado
+chía,LOC,aprobado
+cucuta,LOC,aprobado
+guatemala,LOC,aprobado
+londres,LOC,aprobado
+mexico,LOC,aprobado
+mininterior,ORG,aprobado
+palmeiras,ORG,aprobado
+quintero,PER,aprobado
+santo domingo,LOC,aprobado
+vasco da gama,ORG,aprobado
+dapre,ORG,aprobado
+disney,ORG,aprobado
+el aro,LOC,aprobado
+iran,LOC,aprobado
+la antioqueñita,ORG,aprobado
+madonna,PER,aprobado
+minambiente,ORG,aprobado
+polonuevo,LOC,aprobado
+rappi,ORG,aprobado
+yulixa,PER,aprobado
+dim,ORG,aprobado
+girardot,LOC,aprobado
+juzgado,ORG,aprobado
+miloto,ORG,aprobado
+mineducación,ORG,aprobado
+santos,PER,aprobado
+teherán,LOC,aprobado
+veolia,ORG,aprobado
+claro,ORG,aprobado
+filipinas,LOC,aprobado
+jhon lucumí,PER,aprobado
+pakistán,LOC,aprobado
+rd del congo,LOC,aprobado
+vingegaard,PER,aprobado
+colombia mayor,ORG,aprobado
+mincomercio,ORG,aprobado
+minjusticia,ORG,aprobado
+nicky jam,PER,aprobado
+parque tayrona,LOC,aprobado
+yerry mina,PER,aprobado
+álex saab,PER,aprobado
+chapinero,LOC,aprobado
+costa,LOC,aprobado
+culotauro,PER,aprobado
+honduras,LOC,aprobado
+mosquera,LOC,aprobado
+movistar arena,ORG,aprobado
+noboa,PER,aprobado
+oviedo,PER,aprobado
+taiwán,LOC,aprobado
+túnez,LOC,aprobado
+yeison,PER,aprobado
+apulo,LOC,aprobado
+bukele,PER,aprobado
+defensoria,ORG,aprobado
+el despertador,LOC,aprobado
+engativá,LOC,aprobado
+gran malecón,LOC,aprobado
+jhon córdoba,PER,aprobado
+kiev,LOC,aprobado
+mintic,ORG,aprobado
+papá pitufo,PER,aprobado
+satena,ORG,aprobado
+spec,ORG,aprobado
+tuluá,LOC,aprobado
+deluque,PER,aprobado
+flip,ORG,aprobado
+folarin balogun,PER,aprobado
+hacienda,ORG,aprobado
+mora,PER,aprobado
+piedecuesta,LOC,aprobado
+roldanillo,LOC,aprobado
+zapatero,PER,aprobado
+áfrica,LOC,aprobado
+acolgen,ORG,aprobado
+charlie zaa,PER,aprobado
+dua lipa,PER,aprobado
+itaú,ORG,aprobado
+metro,ORG,aprobado
+minigualdad,ORG,aprobado
+uber,ORG,aprobado
+uniatlántico,ORG,aprobado
+aguachica,LOC,aprobado
+amalfi,LOC,aprobado
+andeg,ORG,aprobado
+asia,LOC,aprobado
+boca,ORG,aprobado
+davivienda,ORG,aprobado
+el tarra,LOC,aprobado
+fuad char,PER,aprobado
+grecia,LOC,aprobado
+jaguares,ORG,aprobado
+japon,LOC,aprobado
+keralty,ORG,aprobado
+malvinas,LOC,aprobado
+mio,ORG,aprobado
+panini,ORG,aprobado
+sogamoso,LOC,aprobado
+univalle,ORG,aprobado
+atanasio girardot,LOC,aprobado
+bolsonaro,PER,aprobado
+cajibío,LOC,aprobado
+iglesia,,descartado
+juventus,ORG,aprobado
+la casa de los famosos colombia,ORG,aprobado
+macará,ORG,aprobado
+monserrate,LOC,aprobado
+mónaco,LOC,aprobado
+odinsa,ORG,aprobado
+oriente,LOC,aprobado
+paz,,descartado
+são paulo,LOC,aprobado
+toloza,PER,aprobado
+universidad,ORG,aprobado
+bellingham,PER,aprobado
+byd,ORG,aprobado
+cabal,PER,aprobado
+cafam,ORG,aprobado
+honda,ORG,aprobado
+ibague,LOC,aprobado
+juanes,PER,aprobado
+kast,PER,aprobado
+la calera,LOC,aprobado
+mike bahía,PER,aprobado
+minvivienda,ORG,aprobado
+mordisco,PER,aprobado
+musk,PER,aprobado
+ozuna,PER,aprobado
+penagos,PER,aprobado
+portafolio,ORG,aprobado
+procolombia,ORG,aprobado
+qatar,LOC,aprobado
+santiago,PER,aprobado
+sheinbaum,PER,aprobado
+x,ORG,aprobado
+acueducto,ORG,aprobado
+angie,PER,aprobado
+arabia,LOC,aprobado
+ariana grande,PER,aprobado
+azteca,ORG,aprobado
+bocagrande,LOC,aprobado
+canada,LOC,aprobado
+celsia,ORG,aprobado
+colsubsidio,ORG,aprobado
+dijín,ORG,aprobado
+edwin palma,PER,aprobado
+el bosque,LOC,aprobado
+flamengo,ORG,aprobado
+kansas city,LOC,aprobado
+luruaco,LOC,aprobado
+mango,ORG,aprobado
+providencia,LOC,aprobado
+regiotram del norte,ORG,aprobado
+río,LOC,aprobado
+san gil,LOC,aprobado
+sijín,ORG,aprobado
+valderrama,PER,aprobado
+yhormar hurtado,PER,aprobado
+acuacar,ORG,aprobado
+caicedo,PER,aprobado
+carf,ORG,aprobado
+espana,LOC,aprobado
+harvard,ORG,aprobado
+hospital san juan de dios,ORG,aprobado
+la casa de los famosos,,descartado
+ministerio de agricultura,ORG,aprobado
+moscú,LOC,aprobado
+postobón,ORG,aprobado
+vichada,LOC,aprobado
+wingo,ORG,aprobado
+acueducto de bogotá,ORG,aprobado
+amazonas,LOC,aprobado
+anato,ORG,aprobado
+andes,LOC,aprobado
+bavaria,ORG,aprobado
+camacol,ORG,aprobado
+caucasia,LOC,aprobado
+dea,ORG,aprobado
+duitama,LOC,aprobado
+duque,PER,aprobado
+egan,PER,aprobado
+el costeño,PER,aprobado
+funza,LOC,aprobado
+gaula,ORG,aprobado
+gaula militar,ORG,aprobado
+guarumo,ORG,aprobado
+houston,LOC,aprobado
+kuwait,LOC,aprobado
+lara,PER,aprobado
+libertadores,,descartado
+los pepes,ORG,aprobado
+maná,PER,aprobado
+mondomo,LOC,aprobado
+ortega,LOC,aprobado
+república del congo,LOC,aprobado
+texas,LOC,aprobado
+zulma guzmán,PER,aprobado
+altafulla,ORG,aprobado
+arizabaleta,PER,aprobado
+atanasio,LOC,aprobado
+chiquito malo,PER,aprobado
+club el nogal,LOC,aprobado
+contralor,PER,aprobado
+ernesto cortissoz,LOC,aprobado
+fedesarrollo,ORG,aprobado
+garzón,LOC,aprobado
+gigante,LOC,aprobado
+groenlandia,LOC,aprobado
+gutiérrez,PER,aprobado
+junta,ORG,aprobado
+metro de medellín,ORG,aprobado
+o’higgins,ORG,aprobado
+pascual guerrero,LOC,aprobado
+pitalito,LOC,aprobado
+pixar,ORG,aprobado
+puracé,LOC,aprobado
+singapur,LOC,aprobado
+starlink,ORG,aprobado
+uci,ORG,aprobado
+zendaya,PER,aprobado
+ábrego,LOC,aprobado
+área metropolitana,ORG,aprobado
+acemi,ORG,aprobado
+alcalde char,PER,aprobado
+alexa,PER,aprobado
+beéle,PER,aprobado
+bmw,ORG,aprobado
+bojayá,LOC,aprobado
+daviplata,PER,aprobado
+emssanar,ORG,aprobado
+espectador,ORG,aprobado
+fasecolda,ORG,aprobado
+gobernación de bolívar,ORG,aprobado
+kenia,LOC,aprobado
+klose,PER,aprobado
+la mojana,LOC,aprobado
+la plata,LOC,aprobado
+makro,ORG,aprobado
+marinilla,LOC,aprobado
+meloni,PER,aprobado
+mhoni,PER,aprobado
+mira,ORG,aprobado
+museo nacional,ORG,aprobado
+ospina,PER,aprobado
+paipa,LOC,aprobado
+primicia,LOC,aprobado
+procurador eljach,PER,aprobado
+rebolo,LOC,aprobado
+show,,descartado
+sudamericana,,descartado
+terpel,ORG,aprobado
+universidad pedagógica,ORG,aprobado
+volkswagen,ORG,aprobado
+zipaquirá,LOC,aprobado
+ávila,PER,aprobado
+andino,LOC,aprobado
+ara,ORG,aprobado
+atenas,LOC,aprobado
+bizarrap,PER,aprobado
+chambacú,LOC,aprobado
+chicó,ORG,aprobado
+eljach,PER,aprobado
+emiratos árabes,LOC,aprobado
+fedegán,ORG,aprobado
+fonseca,PER,aprobado
+g7,ORG,aprobado
+guerrero,PER,aprobado
+guyana,LOC,aprobado
+hungría,LOC,aprobado
+jeff bezos,PER,aprobado
+jiménez,PER,aprobado
+joe biden,PER,aprobado
+jürgen klopp,PER,aprobado
+kansas,LOC,aprobado
+macondo,PER,aprobado
+magdalena medio,LOC,aprobado
+melgar,LOC,aprobado
+misak,ORG,aprobado
+morelos,LOC,aprobado
+nubank,ORG,aprobado
+personería,ORG,aprobado
+polonia,LOC,aprobado
+puerto tejada,LOC,aprobado
+saab,ORG,aprobado
+san francisco,LOC,aprobado
+shakibecca,PER,aprobado
+supersolidaria,ORG,aprobado
+temu,ORG,aprobado
+toronto,LOC,aprobado
+uninorte,ORG,aprobado
+universidad del valle,ORG,aprobado
+xbox,ORG,aprobado
+al nassr,ORG,aprobado
+alquería,ORG,aprobado
+amcham,ORG,aprobado
+asobares,ORG,aprobado
+colo colo,ORG,aprobado
+didi,ORG,aprobado
+epa,ORG,aprobado
+epstein,PER,aprobado
+fundación santa fe,ORG,aprobado
+galatasaray,ORG,aprobado
+ghetto kids,ORG,aprobado
+guajira,LOC,aprobado
+homecenter,ORG,aprobado
+hong kong,LOC,aprobado
+ibai llanos,PER,aprobado
+indepaz,ORG,aprobado
+invias,ORG,aprobado
+juanfer,PER,aprobado
+mark zuckerberg,PER,aprobado
+marvel,ORG,aprobado
+milán,LOC,aprobado
+palma,PER,aprobado
+panama,LOC,aprobado
+pekín,LOC,aprobado
+pékerman,PER,aprobado
+samacá,LOC,aprobado
+sao paulo,LOC,aprobado
+segura,PER,aprobado
+simón bolívar,PER,aprobado
+tren,PER,aprobado
+uzbekistan,LOC,aprobado
+vélez,PER,aprobado
+yamal,PER,aprobado
+óscar córdoba,PER,aprobado
+arena usc,ORG,aprobado
+baréin,LOC,aprobado
+beauty láser,ORG,aprobado
+bendito menor,PER,aprobado
+caifanes,PER,aprobado
+clemencia,LOC,aprobado
+clínica infantil colsubsidio,ORG,aprobado
+codelco,ORG,aprobado
+congresista,PER,aprobado
+corficolombiana,ORG,aprobado
+defensora,PER,aprobado
+el heraldo,ORG,aprobado
+el nogal,LOC,aprobado
+empalme,ORG,aprobado
+ffmm,ORG,aprobado
+fitch,ORG,aprobado
+fla,ORG,aprobado
+fontur,ORG,aprobado
+friburgo,ORG,aprobado
+goldman sachs,ORG,aprobado
+golfo,LOC,aprobado
+guarne,LOC,aprobado
+hospital universitario del valle,ORG,aprobado
+ingenio la cabaña,ORG,aprobado
+isagen,ORG,aprobado
+islandia,LOC,aprobado
+kia,ORG,aprobado
+la fm,ORG,aprobado
+lec lee,ORG,aprobado
+los patios,LOC,aprobado
+mallplaza,ORG,aprobado
+mendoza,LOC,aprobado
+o'higgins,ORG,aprobado
+paisas,ORG,aprobado
+paisita noche,,descartado
+petronio álvarez,PER,aprobado
+pizarro,PER,aprobado
+puerto antioquia,LOC,aprobado
+roa,PER,aprobado
+sanabria,PER,aprobado
+sanchez,PER,aprobado
+savia salud,ORG,aprobado
+shein,PER,aprobado
+sinuano noche,,descartado
+tadó,LOC,aprobado
+the strokes,ORG,aprobado
+totoró,PER,aprobado
+turbo,LOC,aprobado
+universidad popular del cesar,ORG,aprobado
+vea,PER,aprobado
+villa,PER,aprobado
+xi,PER,aprobado
+al-hilal,ORG,aprobado
+alibaba,ORG,aprobado
+ascun,ORG,aprobado
+asocaña,ORG,aprobado
+binance,ORG,aprobado
+burna boy,PER,aprobado
+campín,LOC,aprobado
+capitolio nacional,LOC,aprobado
+cardique,PER,aprobado
+celeste,PER,aprobado
+cereté,LOC,aprobado
+chinchiná,LOC,aprobado
+circasia,LOC,aprobado
+comfenalco,ORG,aprobado
+comunes,ORG,aprobado
+cordoba,LOC,aprobado
+cortissoz,LOC,aprobado
+drummond,PER,aprobado
+eaab,ORG,aprobado
+escobar,PER,aprobado
+externado,ORG,aprobado
+fecode,ORG,aprobado
+fedetranscarga,ORG,aprobado
+fito,PER,aprobado
+jorge,PER,aprobado
+jpmorgan,ORG,aprobado
+karol,PER,aprobado
+la cabaña,ORG,aprobado
+la dorada,LOC,aprobado
+león,PER,aprobado
+llaneros,ORG,aprobado
+martínez,PER,aprobado
+metropolitano,LOC,aprobado
+mojana,LOC,aprobado
+morales,PER,aprobado
+murillo,LOC,aprobado
+nike,ORG,aprobado
+nuquí,LOC,aprobado
+occidente,LOC,aprobado
+odebrecht,ORG,aprobado
+olise,PER,aprobado
+pichincha,ORG,aprobado
+plaza central,LOC,aprobado
+pueblo,LOC,aprobado
+puerto de tumaco,LOC,aprobado
+rama judicial,ORG,aprobado
+reykon,PER,aprobado
+san bernardo,LOC,aprobado
+software,ORG,aprobado
+spielberg,PER,aprobado
+sur,LOC,aprobado
+thomas greg & sons,ORG,aprobado
+topos azteca,ORG,aprobado
+toro,LOC,aprobado
+tottenham,ORG,aprobado
+unicentro,ORG,aprobado
+universal,ORG,aprobado
+urrá,LOC,aprobado
+vargas lleras,PER,aprobado
+vive claro,ORG,aprobado
+zohran mamdani,PER,aprobado
+addi,ORG,aprobado
+alfaro,PER,aprobado
+alphabet,ORG,aprobado
+amarilo,ORG,aprobado
+amaya,PER,aprobado
+aruba,LOC,aprobado
+astrazeneca,ORG,aprobado
+atlanta,LOC,aprobado
+bazurto,LOC,aprobado
+bolivar,LOC,aprobado
+buriticá,LOC,aprobado
+canal de panamá,LOC,aprobado
+caribeña,LOC,aprobado
+casa de los famosos,ORG,aprobado
+caño cristales,LOC,aprobado
+cementerio central,LOC,aprobado
+centro comercial andino,LOC,aprobado
+chevyplan,ORG,aprobado
+citi,ORG,aprobado
+claudia,PER,aprobado
+colombia solar,ORG,aprobado
+comisionado de paz,PER,aprobado
+coquimbo,ORG,aprobado
+cruz verde,LOC,aprobado
+dallas,LOC,aprobado
+delcy,PER,aprobado
+emberá,ORG,aprobado
+guzmán,PER,aprobado
+hospital general de medellín,ORG,aprobado
+hrw,ORG,aprobado
+imax,LOC,aprobado
+indonesia,LOC,aprobado
+irlanda,LOC,aprobado
+jaime martínez,PER,aprobado
+jesurún,PER,aprobado
+jurado,PER,aprobado
+júpiter,PER,aprobado
+kids,ORG,aprobado
+la casa de los famosos colombia 2026,ORG,aprobado
+liendra,PER,aprobado
+mg,ORG,aprobado
+mono,PER,aprobado
+montero,PER,aprobado
+new,ORG,aprobado
+obama,PER,aprobado
+oxford,LOC,aprobado
+parlamento,ORG,aprobado
+parque pacífico,LOC,aprobado
+pastrana,PER,aprobado
+patria,ORG,aprobado
+pdet,ORG,aprobado
+pijao,LOC,aprobado
+plaza claro,LOC,aprobado
+puerto rico,LOC,aprobado
+rdc,LOC,aprobado
+rendón,PER,aprobado
+sabaneta,LOC,aprobado
+santa maría,LOC,aprobado
+sinner,PER,aprobado
+sopó,LOC,aprobado
+suroccidente,LOC,aprobado
+swift,LOC,aprobado
+teatro,LOC,aprobado
+torre colpatria,LOC,aprobado
+táchira,LOC,aprobado
+usc,LOC,aprobado
+verde,ORG,aprobado
+yango,PER,aprobado
+zambrano,LOC,aprobado
+zuckerberg,ORG,aprobado
+zut,ORG,aprobado
+ébola,,descartado
+acevedo,LOC,aprobado
+aeropuerto el dorado,LOC,aprobado
+afidro,ORG,aprobado
+air force one,ORG,aprobado
+alcocer,PER,aprobado
+andalucía,LOC,aprobado
+asopetrol,ORG,aprobado
+atlantico,LOC,aprobado
+batallón paraíso,ORG,aprobado
+betoyes,LOC,aprobado
+blackstone,ORG,aprobado
+bologna,ORG,aprobado
+bolsa,,descartado
+bruselas,LOC,aprobado
+burnham,PER,aprobado
+cali distrito moda,ORG,aprobado
+camilo daza,LOC,aprobado
+canal del dique,LOC,aprobado
+cantón militar pichincha,ORG,aprobado
+cepal,ORG,aprobado
+cibest,PER,aprobado
+colombiamoda 2026,ORG,aprobado
+comfama,ORG,aprobado
+corabastos,LOC,aprobado
+corpades,PER,aprobado
+corpoboyacá,ORG,aprobado
+cruzeiro,ORG,aprobado
+cusco,PER,aprobado
+dagma,ORG,aprobado
+dijin,ORG,aprobado
+dudamel,PER,aprobado
+durán,PER,aprobado
+el hermano,PER,aprobado
+el zarco,PER,aprobado
+expopet,ORG,aprobado
+fox,ORG,aprobado
+fracking,ORG,aprobado
+frisby,ORG,aprobado
+frontera,ORG,aprobado
+gobernación del tolima,ORG,aprobado
+godzilla,PER,aprobado
+hospital de bocagrande,ORG,aprobado
+jhon,PER,aprobado
+jorge celedón,PER,aprobado
+juan valdez,ORG,aprobado
+kokoriko,PER,aprobado
+la maría,LOC,aprobado
+las gardenias,LOC,aprobado
+laura,PER,aprobado
+leyva,PER,aprobado
+linkedin,ORG,aprobado
+los andes,LOC,aprobado
+láser,LOC,aprobado
+machu picchu,LOC,aprobado
+matador,PER,aprobado
+mateo,PER,aprobado
+mina,PER,aprobado
+minuto de dios,ORG,aprobado
+narino,LOC,aprobado
+new york,LOC,aprobado
+nuevo hospital bocagrande,ORG,aprobado
+nutresa,ORG,aprobado
+paris,PER,aprobado
+parque nacional natural tayrona,LOC,aprobado
+pompeya,LOC,aprobado
+radio,ORG,aprobado
+rockstar,ORG,aprobado
+sagitario,PER,aprobado
+san josé,LOC,aprobado
+santillana,LOC,aprobado
+sk hynix,ORG,aprobado
+somalia,LOC,aprobado
+superman,PER,aprobado
+sura,ORG,aprobado
+thomas greg,ORG,aprobado
+tiburón,ORG,aprobado
+tm,ORG,aprobado
+vasco,ORG,aprobado
+velásquez,PER,aprobado
+verano,PER,aprobado
+vietnam,LOC,aprobado
+wsj,PER,aprobado
+zenit,ORG,aprobado
+éxito,ORG,aprobado
+abaco,ORG,aprobado
+acopi,ORG,aprobado
+aliadas,ORG,aprobado
+altman,ORG,aprobado
+anapoima,ORG,aprobado
+arkitect,PER,aprobado
+arn,ORG,aprobado
+asoleche,ORG,aprobado
+astara,ORG,aprobado
+atenea,ORG,aprobado
+baidu,ORG,aprobado
+barbados,LOC,aprobado
+barbosa,LOC,aprobado
+batallón pichincha,ORG,aprobado
+belgica,LOC,aprobado
+beyoncé,PER,aprobado
+blu radio,ORG,aprobado
+brasileirao,ORG,aprobado
+cai,LOC,aprobado
+calle 100,LOC,aprobado
+campana,PER,aprobado
+carlos patiño,PER,aprobado
+carrasquilla,PER,aprobado
+carvajal,PER,aprobado
+central park,LOC,aprobado
+chanel,ORG,aprobado
+ciudadela real del caribe,LOC,aprobado
+colombia tech week,ORG,aprobado
+comfandi,ORG,aprobado
+cooperación española,LOC,aprobado
+cornare,PER,aprobado
+cota,LOC,aprobado
+cr7,PER,aprobado
+cursor,ORG,aprobado
+dale,ORG,aprobado
+de defensa,ORG,aprobado
+de los famosos,ORG,aprobado
+dembelé,PER,aprobado
+devimed,ORG,aprobado
+dimax,ORG,aprobado
+doña juana,LOC,aprobado
+ejc,ORG,aprobado
+el espectador,ORG,aprobado
+elfiltro,ORG,aprobado
+eli lilly,ORG,aprobado
+elías,LOC,aprobado
+embolo,ORG,aprobado
+emily,PER,aprobado
+escalona,PER,aprobado
+escandalo,PER,aprobado
+espinal,LOC,aprobado
+estación,ORG,aprobado
+eu,ORG,aprobado
+evenepoel,PER,aprobado
+evolti,ORG,aprobado
+exministro,ORG,aprobado
+fede,ORG,aprobado
+fedecafé,ORG,aprobado
+fedegan,ORG,aprobado
+francisco,PER,aprobado
+fómeque,LOC,aprobado
+getafe,ORG,aprobado
+gran estación,LOC,aprobado
+gran vía,LOC,aprobado
+guaira,LOC,aprobado
+hic,ORG,aprobado
+holanda,LOC,aprobado
+hospital la maría,ORG,aprobado
+hospital san jorge,ORG,aprobado
+hospital san vicente de paúl,ORG,aprobado
+idiger,ORG,aprobado
+ii,LOC,aprobado
+india catalina,LOC,aprobado
+indumil,ORG,aprobado
+jaime,LOC,aprobado
+jetblue,ORG,aprobado
+jp morgan,ORG,aprobado
+klopp,PER,aprobado
+koa,ORG,aprobado
+koeman,PER,aprobado
+la modelo,LOC,aprobado
+la parce,ORG,aprobado
+la popa,LOC,aprobado
+la pulla,ORG,aprobado
+lafayette,ORG,aprobado
+laliga,ORG,aprobado
+lazio,ORG,aprobado
+libertad,ORG,aprobado
+lituania,LOC,aprobado
+louvre,ORG,aprobado
+malasia,LOC,aprobado
+mercedes,ORG,aprobado
+metrolínea,ORG,aprobado
+micron,ORG,aprobado
+mike,PER,aprobado
+moana,PER,aprobado
+montelíbano,LOC,aprobado
+monterrey,LOC,aprobado
+montoya,PER,aprobado
+museo de antioquia,ORG,aprobado
+museo de bogotá,ORG,aprobado
+nasdaq,LOC,aprobado
+nicky,PER,aprobado
+nobsa,ORG,aprobado
+nuam,ORG,aprobado
+omar courtz,PER,aprobado
+oracle,ORG,aprobado
+pajarito,PER,aprobado
+paramount,ORG,aprobado
+parque centenario,LOC,aprobado
+plata,ORG,aprobado
+precoltur,ORG,aprobado
+quetame,LOC,aprobado
+rafael uribe uribe,LOC,aprobado
+rayo,ORG,aprobado
+riestra,ORG,aprobado
+rigi,ORG,aprobado
+rivera,PER,aprobado
+rojas,PER,aprobado
+rosario,LOC,aprobado
+saeta,PER,aprobado
+sarabia,PER,aprobado
+satanás,ORG,aprobado
+sáhara,LOC,aprobado
+teatro libre,LOC,aprobado
+teatro nacional,LOC,aprobado
+ticketmaster,ORG,aprobado
+tour de francia,ORG,aprobado
+twitter,ORG,aprobado
+ulises,PER,aprobado
+uninúñez,LOC,aprobado
+universidad externado,ORG,aprobado
+unión,ORG,aprobado
+vaupés,LOC,aprobado
+village people,ORG,aprobado
+villarreal,ORG,aprobado
+vía panamericana,LOC,aprobado
+wembanyama,PER,aprobado
+wompi,ORG,aprobado
+zona bananera,LOC,aprobado
+zoológico de cali,ORG,aprobado
+álvarez,PER,aprobado
+mecha,ORG,aprobado
+pibe,PER,aprobado
+hilal,ORG,aprobado
+aeropuerto internacional matecaña,LOC,aprobado
+al-nassr,ORG,aprobado
+alcaraz,PER,aprobado
+alpe d'huez,LOC,aprobado
+altillanura,ORG,aprobado
+alto comisionado para la paz,ORG,aprobado
+america,LOC,aprobado
+aramco,ORG,aprobado
+arana,PER,aprobado
+aranjuez,LOC,aprobado
+arca,LOC,aprobado
+archies,ORG,aprobado
+arena cañaveralejo,ORG,aprobado
+aris mining,ORG,aprobado
+ashmore,ORG,aprobado
+asopartes,ORG,aprobado
+aston,LOC,aprobado
+autopistas del café,ORG,aprobado
+baby demoni,PER,aprobado
+bahía,ORG,aprobado
+balvin,PER,aprobado
+banagrario,PER,aprobado
+banco de occidente,ORG,aprobado
+barrio obrero de cali,LOC,aprobado
+barrios,PER,aprobado
+basílica del señor de los milagros,LOC,aprobado
+batallón,,descartado
+beauty laser,ORG,aprobado
+beto,PER,aprobado
+bezos,PER,aprobado
+bilbao,LOC,aprobado
+blanca,ORG,aprobado
+blindex,ORG,aprobado
+boyaco sinaloa,PER,aprobado
+buen pastor,PER,aprobado
+bulgaria,LOC,aprobado
+burnley,PER,aprobado
+cabrera,LOC,aprobado
+cachipay,LOC,aprobado
+café,LOC,aprobado
+campanita,PER,aprobado
+campo,ORG,aprobado
+carmen,PER,aprobado
+casa de la constitución,ORG,aprobado
+centro de acopio,ORG,aprobado
+centros felicidad,LOC,aprobado
+cerrejon,LOC,aprobado
+chapecoense,ORG,aprobado
+checa,ORG,aprobado
+chilena codelco,ORG,aprobado
+chipre,LOC,aprobado
+chivor,LOC,aprobado
+clapper,PER,aprobado
+codazzi,LOC,aprobado
+coldplay,ORG,aprobado
+colfecar,PER,aprobado
+colombina,ORG,aprobado
+colombo americano,LOC,aprobado
+confecámaras,PER,aprobado
+conpes,ORG,aprobado
+coritiba,PER,aprobado
+corpoamazonia,ORG,aprobado
+cortolima,ORG,aprobado
+corvivienda,ORG,aprobado
+coviandina,ORG,aprobado
+cristóbal,LOC,aprobado
+crudo,PER,aprobado
+cubarsí,PER,aprobado
+curramba,LOC,aprobado
+deepfakes,PER,aprobado
+def leppard,ORG,aprobado
+dela espriella,PER,aprobado
+diaco,ORG,aprobado
+diez canseco,PER,aprobado
+dior,ORG,aprobado
+dios,ORG,aprobado
+disney world,LOC,aprobado
+domiciliario,ORG,aprobado
+donald,PER,aprobado
+eau,ORG,aprobado
+el ajizal,LOC,aprobado
+el burro,LOC,aprobado
+el cerro,LOC,aprobado
+el león,ORG,aprobado
+el tigre,ORG,aprobado
+epic universe,LOC,aprobado
+española,,descartado
+estéreo botánico,ORG,aprobado
+euphoria,LOC,aprobado
+expolicía,PER,aprobado
+fat n,PER,aprobado
+finagro,ORG,aprobado
+flores,LOC,aprobado
+flow,ORG,aprobado
+forbes,ORG,aprobado
+fortnite,PER,aprobado
+fábrica de cultura,LOC,aprobado
+gallagher,ORG,aprobado
+gef,ORG,aprobado
+ghetto,PER,aprobado
+gil,LOC,aprobado
+gobernación del meta,LOC,aprobado
+goldman,ORG,aprobado
+gomez,PER,aprobado
+goodyear,ORG,aprobado
+gran bretaña,LOC,aprobado
+gran plaza,ORG,aprobado
+gran santander,LOC,aprobado
+greer,ORG,aprobado
+grêmio,ORG,aprobado
+habana,PER,aprobado
+hakimi,PER,aprobado
+halland,PER,aprobado
+hero,ORG,aprobado
+hincapie,PER,aprobado
+hospital alma mater,ORG,aprobado
+ibai,PER,aprobado
+ica,ORG,aprobado
+iris,PER,aprobado
+isak andic,PER,aprobado
+jalisco,LOC,aprobado
+jenesano,ORG,aprobado
+jesús de nazareth,PER,aprobado
+junta de paz,ORG,aprobado
+jurassic park,LOC,aprobado
+justicia y paz,PER,aprobado
+jóvenes,ORG,aprobado
+la carolina,ORG,aprobado
+la cordillera,ORG,aprobado
+la inmaculada,ORG,aprobado
+la sele,LOC,aprobado
+leonardo dicaprio,PER,aprobado
+levi's,ORG,aprobado
+libres,PER,aprobado
+locarno,PER,aprobado
+luis7lunes,ORG,aprobado
+mafapo,PER,aprobado
+mafe walker,ORG,aprobado
+maisak,PER,aprobado
+maloka,PER,aprobado
+manrique,LOC,aprobado
+marco fidel suárez,LOC,aprobado
+mardique,LOC,aprobado
+mato grosso,LOC,aprobado
+max,ORG,aprobado
+melia,ORG,aprobado
+metrosalud,ORG,aprobado
+militar,PER,aprobado
+minas,ORG,aprobado
+minions,ORG,aprobado
+miss,ORG,aprobado
+miss venezuela global,ORG,aprobado
+mitú,LOC,aprobado
+morgan,PER,aprobado
+morumbí,LOC,aprobado
+multiplaza,ORG,aprobado
+museo rayo,ORG,aprobado
+nazareth,ORG,aprobado
+new order,ORG,aprobado
+nqs,ORG,aprobado
+okc,PER,aprobado
+oman,PER,aprobado
+orsomarso,PER,aprobado
+palantir,ORG,aprobado
+palermo,LOC,aprobado
+palomino,LOC,aprobado
+palonegro,ORG,aprobado
+paola,ORG,aprobado
+parque lineal alameda,LOC,aprobado
+patriotas,ORG,aprobado
+patrona,ORG,aprobado
+paz urbana,PER,aprobado
+pequiven,ORG,aprobado
+personero,ORG,aprobado
+planta,ORG,aprobado
+pluma blanca,PER,aprobado
+portal américas,ORG,aprobado
+portal sur,ORG,aprobado
+porto,ORG,aprobado
+puerto voluntad,LOC,aprobado
+péndulo,ORG,aprobado
+queen,PER,aprobado
+registrador penagos,ORG,aprobado
+revolcon,PER,aprobado
+rojo,PER,aprobado
+romelio,LOC,aprobado
+rosas,PER,aprobado
+rotorr,PER,aprobado
+rubiales,ORG,aprobado
+rueda,ORG,aprobado
+rusinque,PER,aprobado
+sacyr,ORG,aprobado
+san jorge,LOC,aprobado
+santa isabel,LOC,aprobado
+santa librada,LOC,aprobado
+saudi aramco,ORG,aprobado
+sena atlántico,ORG,aprobado
+sena santander,ORG,aprobado
+sierra morena,ORG,aprobado
+sirius,ORG,aprobado
+slayer,PER,aprobado
+sonovista,ORG,aprobado
+spacexai,ORG,aprobado
+starship,ORG,aprobado
+suzuki,ORG,aprobado
+teatro mayor julio mario,LOC,aprobado
+tello,ORG,aprobado
+toribío,LOC,aprobado
+torices,LOC,aprobado
+trueno,PER,aprobado
+tuplús,PER,aprobado
+ufps,LOC,aprobado
+universidad del cesar,ORG,aprobado
+universidad distrital,ORG,aprobado
+urbaser,ORG,aprobado
+vallenato al parque,LOC,aprobado
+vassar,ORG,aprobado
+velotax,LOC,aprobado
+venus,LOC,aprobado
+vicente,PER,aprobado
+visma,ORG,aprobado
+vitinha,PER,aprobado
+vladdo,ORG,aprobado
+warren buffett,PER,aprobado
+waymo,ORG,aprobado
+yawa,ORG,aprobado
+yoko,PER,aprobado
+young miko,ORG,aprobado
+zapateiro,PER,aprobado
+zulma,PER,aprobado
+águilas,ORG,aprobado
+édgar rentería,PER,aprobado
+motavita,LOC,aprobado
+piñalito,LOC,aprobado
+volcán puracé,LOC,aprobado
+volcan purace,LOC,aprobado
+mbappé,PER,aprobado
+valledupar,LOC,aprobado
+air-e,ORG,aprobado
+oms,ORG,aprobado
+mintransporte,ORG,aprobado
+ceuta,LOC,aprobado
+milei,PER,aprobado
+guatapé,LOC,aprobado
+sgc,ORG,aprobado
+eje cafetero,LOC,aprobado
+floridablanca,LOC,aprobado
+california,LOC,aprobado
+roma,LOC,aprobado
+ocde,ORG,aprobado
+maicao,LOC,aprobado
+microsoft,ORG,aprobado
+chiquinquirá,LOC,aprobado
+mompox,LOC,aprobado
+famisanar,ORG,aprobado
+colorloto,ORG,aprobado
+teusaquillo,LOC,aprobado
+granada,LOC,aprobado
+cencosud,ORG,aprobado
+airbnb,ORG,aprobado
+renault,ORG,aprobado
+esmad,ORG,aprobado
+falcao,PER,aprobado
+falcao garcía,PER,aprobado
+falcao garcia,PER,aprobado
+cristiano,PER,aprobado
+messi,PER,aprobado
+mbappe,PER,aprobado
+el pibe,PER,aprobado
+cucho,PER,aprobado
+dibu,PER,aprobado
+maduro,PER,aprobado
+putin,PER,aprobado
+starmer,PER,aprobado
+pogačar,PER,aprobado
+timochenko,PER,aprobado
+a prision,,descartado
+a prisión,,descartado
+aeropuerto,,descartado
+alias,,descartado
+atropello,,descartado
+atropelló,,descartado
+barrio,,descartado
+capitan,,descartado
+capitán,,descartado
+carbon,,descartado
+carbón,,descartado
+cardiologo,,descartado
+cardiólogo,,descartado
+caribena dia,,descartado
+caribena noche,,descartado
+caribeña día,,descartado
+caribeña noche,,descartado
+chontico dia,,descartado
+chontico día,,descartado
+chontico noche,,descartado
+colegio,,descartado
+comunidad,,descartado
+condeno,,descartado
+condenó,,descartado
+cortes,,descartado
+cárcel,,descartado
+defensa,,descartado
+despacho,,descartado
+donaton,,descartado
+donatón,,descartado
+dorado manana,,descartado
+dorado mañana,,descartado
+dorado noche,,descartado
+dorado tarde,,descartado
+dueno,,descartado
+dueño,,descartado
+epica,,descartado
+escrutinio,,descartado
+estadio,,descartado
+expareja,,descartado
+familia,,descartado
+fantastica dia,,descartado
+fantastica noche,,descartado
+fantástica día,,descartado
+fantástica noche,,descartado
+fijo,,descartado
+fundación,,descartado
+hijo,,descartado
+hipopotamo,,descartado
+hipopótamo,,descartado
+hospital,,descartado
+japones,,descartado
+japonés,,descartado
+joven,,descartado
+jueza,,descartado
+jugador,,descartado
+ley seca,,descartado
+liga betplay,,descartado
+look,,descartado
+luto,,descartado
+manager,,descartado
+masterchef celebrity,,descartado
+ministra,,descartado
+motilon noche,,descartado
+motilon tarde,,descartado
+motilón noche,,descartado
+motilón tarde,,descartado
+mánager,,descartado
+ninez,,descartado
+niñez,,descartado
+organizacion,,descartado
+organización,,descartado
+padre,,descartado
+paisita dia,,descartado
+paisita día,,descartado
+panico,,descartado
+parque,,descartado
+pico,,descartado
+pijao de oro,,descartado
+placa,,descartado
+placa millonaria moto,,descartado
+prestamo,,descartado
+préstamo,,descartado
+pánico,,descartado
+ranking,,descartado
+regano,,descartado
+regañó,,descartado
+revancha,,descartado
+régimen,,descartado
+sabados,,descartado
+sacudon,,descartado
+sacudón,,descartado
+super astro luna,,descartado
+super astro sol,,descartado
+sábados,,descartado
+tour,,descartado
+universidades,,descartado
+usted,,descartado
+victoria,,descartado
+yo me llamo,,descartado
+épica,,descartado
+aerolinea,,descartado
+aerolínea,,descartado
+batallon,,descartado
+comite,,descartado
+comité,,descartado
+ebola,,descartado
+espanola,,descartado
+gremio,,descartado
+loteria,,descartado
+loterias,,descartado
+lotería,,descartado
+loterías,,descartado
+mision,,descartado
+misión,,descartado
+monseñor,,descartado
+regimen,,descartado
+tono,,descartado

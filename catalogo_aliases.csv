@@ -1,0 +1,316 @@
+alias,entidad_canonica,tipo,estado
+camila potosí,María Camila Potosí,PER,aprobado
+haaland,Erling Haaland,PER,aprobado
+mordisco,Iván Mordisco,PER,aprobado
+lula,Luiz Inácio Lula da Silva,PER,aprobado
+daniel oviedo,Juan Daniel Oviedo,PER,aprobado
+fernando quintero,Juan Fernando Quintero,PER,aprobado
+de francisco,Margarita Rosa de Francisco,PER,aprobado
+bukele,Nayib Bukele,PER,aprobado
+vargas lleras,Enrique Vargas Lleras,PER,aprobado
+polo polo,Miguel Polo Polo,PER,aprobado
+falcao garcía,Radamel Falcao García,PER,aprobado
+camila osorio,María Camila Osorio,PER,aprobado
+amaranto perea,Luis Amaranto Perea,PER,aprobado
+garcía márquez,Gabriel García Márquez,PER,aprobado
+mayerly olaya,Rosa Mayerly Olaya,PER,aprobado
+felipe harman,Juan Felipe Harman,PER,aprobado
+aeronautica civil,Aeronáutica Civil,ORG,aprobado
+aida quilcue,Aida Quilcué,PER,aprobado
+alcaldia de bogota,Alcaldía de Bogotá,ORG,aprobado
+alcaldia de cali,Alcaldía de Cali,ORG,aprobado
+alcaldia de medellin,Alcaldía de Medellín,ORG,aprobado
+alias calarca,Alias Calarcá,PER,aprobado
+america latina,América Latina,LOC,aprobado
+ana lucia pineda,Ana Lucía Pineda,PER,aprobado
+ana maria meza,Ana María Meza,PER,aprobado
+ana maria vesga,Ana María Vesga,PER,aprobado
+andres camilo pelaez,Andrés Camilo Peláez,PER,aprobado
+andres julian rendon,Andrés Julián Rendón,PER,aprobado
+angie rodriguez,Angie Rodríguez,PER,aprobado
+atletico bucaramanga,Atlético Bucaramanga,ORG,aprobado
+atletico nacional,Atlético Nacional,ORG,aprobado
+banco de bogota,Banco de Bogotá,ORG,aprobado
+banco de la republica,Banco de la República,ORG,aprobado
+caracol television,Caracol Televisión,ORG,aprobado
+casa de narino,Casa de Nariño,ORG,aprobado
+centro democratico,Centro Democrático,ORG,aprobado
+churo diaz,Churo Díaz,PER,aprobado
+ciudad bolivar,Ciudad Bolívar,LOC,aprobado
+ciudad de mexico,Ciudad de México,LOC,aprobado
+comision de acusaciones,Comisión de Acusaciones,ORG,aprobado
+comision de acusacion,Comisión de Acusación,ORG,aprobado
+concejo de medellin,Concejo de Medellín,ORG,aprobado
+contraloria general,Contraloría General,ORG,aprobado
+camara de comercio,Cámara de Comercio,ORG,aprobado
+camara de representantes,Cámara de Representantes,ORG,aprobado
+cesar gaviria,César Gaviria,PER,aprobado
+daniel briceno,Daniel Briceño,PER,aprobado
+defensoria del pueblo,Defensoría del Pueblo,ORG,aprobado
+diomedes diaz,Diomedes Díaz,PER,aprobado
+davinson sanchez,Dávinson Sánchez,PER,aprobado
+ejercito nacional,Ejército Nacional,ORG,aprobado
+el penol,El Peñol,LOC,aprobado
+el aguila,El Águila,LOC,aprobado
+elder dayan,Elder Dayán,PER,aprobado
+enrique gomez,Enrique Gómez,PER,aprobado
+escudo de las americas,Escudo de las Américas,ORG,aprobado
+esperanza gomez,Esperanza Gómez,PER,aprobado
+federico gutierrez,Federico Gutiérrez,PER,aprobado
+fito paez,Fito Páez,PER,aprobado
+fondo adaptacion,Fondo Adaptación,ORG,aprobado
+fondo nacional del cafe,Fondo Nacional del Café,ORG,aprobado
+fredy guarin,Fredy Guarín,PER,aprobado
+fuerza publica,Fuerza Pública,ORG,aprobado
+gabriela munoz,Gabriela Muñoz,PER,aprobado
+gobernacion de antioquia,Gobernación de Antioquia,ORG,aprobado
+gobernacion del atlantico,Gobernación del Atlántico,ORG,aprobado
+gobernacion del valle,Gobernación del Valle,ORG,aprobado
+grupo exito,Grupo Éxito,ORG,aprobado
+gustavo bolivar,Gustavo Bolívar,PER,aprobado
+hernan penagos,Hernán Penagos,PER,aprobado
+honorio henriquez,Honorio Henríquez,PER,aprobado
+iglesia catolica,Iglesia Católica,ORG,aprobado
+independiente medellin,Independiente Medellín,ORG,aprobado
+ivan cancino,Iván Cancino,PER,aprobado
+ivan cepeda,Iván Cepeda,PER,aprobado
+ivan mordisco,Iván Mordisco,PER,aprobado
+ivan velasquez,Iván Velásquez,PER,aprobado
+james rodriguez,James Rodríguez,PER,aprobado
+joan sebastian duran,Joan Sebastián Durán,PER,aprobado
+jorge eliecer laverde,Jorge Eliécer Laverde,PER,aprobado
+jorge ivan cuervo,Jorge Iván Cuervo,PER,aprobado
+jose fernando patino,José Fernando Patiño,PER,aprobado
+jose manuel restrepo,José Manuel Restrepo,PER,aprobado
+julian quinones,Julián Quiñones,PER,aprobado
+kevin santiago angel,Kevin Santiago Ángel,PER,aprobado
+la linea,La Línea,LOC,aprobado
+la union,La Unión,LOC,aprobado
+leon xiv,León XIV,PER,aprobado
+lidio garcia,Lidio García,PER,aprobado
+los angeles,Los Ángeles,LOC,aprobado
+loteria de bogota,Lotería de Bogotá,ORG,aprobado
+loteria de boyaca,Lotería de Boyacá,ORG,aprobado
+loteria de cundinamarca,Lotería de Cundinamarca,ORG,aprobado
+loteria de medellin,Lotería de Medellín,ORG,aprobado
+loteria de risaralda,Lotería de Risaralda,ORG,aprobado
+loteria de santander,Lotería de Santander,ORG,aprobado
+loteria de la cruz roja,Lotería de la Cruz Roja,ORG,aprobado
+loteria del cauca,Lotería del Cauca,ORG,aprobado
+loteria del huila,Lotería del Huila,ORG,aprobado
+loteria del meta,Lotería del Meta,ORG,aprobado
+loteria del tolima,Lotería del Tolima,ORG,aprobado
+loteria del valle,Lotería del Valle,ORG,aprobado
+lucas gonzalez,Lucas González,PER,aprobado
+lucho diaz,Lucho Díaz,PER,aprobado
+luis diaz,Luis Díaz,PER,aprobado
+luis suarez,Luis Suárez,PER,aprobado
+lopez de micay,López de Micay,LOC,aprobado
+mario hernandez,Mario Hernández,PER,aprobado
+maria camila potosi,María Camila Potosí,PER,aprobado
+maria claudia tarazona,María Claudia Tarazona,PER,aprobado
+maria corina machado,María Corina Machado,PER,aprobado
+maria fernanda cabal,María Fernanda Cabal,PER,aprobado
+maria jose pizarro,María José Pizarro,PER,aprobado
+mateo perez,Mateo Pérez,PER,aprobado
+metro de bogota,Metro de Bogotá,ORG,aprobado
+miguel gomez,Miguel Gómez,PER,aprobado
+miguel uribe londono,Miguel Uribe Londoño,PER,aprobado
+ministerio de educacion,Ministerio de Educación,ORG,aprobado
+nicolas barguil,Nicolás Barguil,PER,aprobado
+nicolas maduro,Nicolás Maduro,PER,aprobado
+nicolas petro,Nicolás Petro,PER,aprobado
+nino guerrero,Niño Guerrero,PER,aprobado
+nestor lorenzo,Néstor Lorenzo,PER,aprobado
+olmedo lopez,Olmedo López,PER,aprobado
+ómar bula,Omar Bula,PER,aprobado
+otty patino,Otty Patiño,PER,aprobado
+pacto historico,Pacto Histórico,ORG,aprobado
+paises bajos,Países Bajos,LOC,aprobado
+pedro sanchez,Pedro Sánchez,PER,aprobado
+policia nacional,Policía Nacional,ORG,aprobado
+paramo de santurban,Páramo de Santurbán,LOC,aprobado
+raul castro,Raúl Castro,PER,aprobado
+rene higuita,René Higuita,PER,aprobado
+republica democratica del congo,República Democrática del Congo,LOC,aprobado
+republica dominicana,República Dominicana,LOC,aprobado
+richard rios,Richard Ríos,PER,aprobado
+roberto sanchez,Roberto Sánchez,PER,aprobado
+rodrigo londono,Rodrigo Londoño,PER,aprobado
+rio de janeiro,Río de Janeiro,LOC,aprobado
+san andres,San Andrés,LOC,aprobado
+san jose del palmar,San José del Palmar,LOC,aprobado
+sebastian villa,Sebastián Villa,PER,aprobado
+secretaria de movilidad,Secretaría de Movilidad,ORG,aprobado
+secretaria de movilidad de bogotá,Secretaría de Movilidad de Bogotá,ORG,aprobado
+secretaria de salud,Secretaría de Salud,ORG,aprobado
+seleccion colombia,Selección Colombia,ORG,aprobado
+senado de la republica,Senado de la República,ORG,aprobado
+servicio geologico,Servicio Geológico,ORG,aprobado
+servicio geologico colombiano,Servicio Geológico Colombiano,ORG,aprobado
+toto la momposina,Totó la Momposina,PER,aprobado
+tunel de oriente,Túnel de Oriente,LOC,aprobado
+tunel del toyo,Túnel del Toyo,LOC,aprobado
+union europea,Unión Europea,ORG,aprobado
+valeria marquez,Valeria Márquez,PER,aprobado
+valle de aburra,Valle de Aburrá,LOC,aprobado
+veronica alcocer,Verónica Alcocer,PER,aprobado
+volcan purace,Volcán Puracé,LOC,aprobado
+via al mar,Vía al Mar,LOC,aprobado
+víctor chala,Víctor Chalá,PER,aprobado
+yeison jimenez,Yeison Jiménez,PER,aprobado
+alvaro uribe,Álvaro Uribe,PER,aprobado
+ee uu,Estados Unidos,LOC,aprobado
+ee. uu,Estados Unidos,LOC,aprobado
+eeuu,Estados Unidos,LOC,aprobado
+de la espriella,Abelardo de la Espriella,PER,aprobado
+la espriella,Abelardo de la Espriella,PER,aprobado
+abelardo,Abelardo de la Espriella,PER,aprobado
+petro,Gustavo Petro,PER,aprobado
+gustavo petro,Gustavo Petro,PER,aprobado
+uribe,Álvaro Uribe,PER,aprobado
+álvaro uribe,Álvaro Uribe,PER,aprobado
+cepeda,Iván Cepeda,PER,aprobado
+iván cepeda,Iván Cepeda,PER,aprobado
+trump,Donald Trump,PER,aprobado
+zelenski,Volodímir Zelenski,PER,aprobado
+mackalister silva,David Mackalister Silva,PER,aprobado
+rodríguez zapatero,José Luis Rodríguez Zapatero,PER,aprobado
+durán guerrero,Joan Sebastián Durán Guerrero,PER,aprobado
+de amores,Guillermo de Amores,PER,aprobado
+di maría,Ángel Di María,PER,aprobado
+iván cuervo,Jorge Iván Cuervo,PER,aprobado
+alexander lopez,Alexander López,PER,aprobado
+atlantico,Atlántico,LOC,aprobado
+aylin mujica,Aylín Mujica,PER,aprobado
+bahia solano,Bahía Solano,LOC,aprobado
+belgica,Bélgica,LOC,aprobado
+bogota,Bogotá,LOC,aprobado
+bolivar,Bolívar,LOC,aprobado
+boyaca,Boyacá,LOC,aprobado
+camila potosi,María Camila Potosí,PER,aprobado
+carlos ramon gonzalez,Carlos Ramón González,PER,aprobado
+cesar gastelum,César Gastélum,PER,aprobado
+choco,Chocó,LOC,aprobado
+clara chia,Clara Chía,PER,aprobado
+comfamiliar atlantico,Comfamiliar Atlántico,ORG,aprobado
+de la fuente,Luis de la Fuente,PER,aprobado
+efrain cepeda,Efraín Cepeda,PER,aprobado
+espana,España,LOC,aprobado
+estacion espacial internacional,Estación Espacial Internacional,LOC,aprobado
+federacion colombiana de futbol,Federación Colombiana de Fútbol,ORG,aprobado
+fico gutierrez,Federico Gutiérrez,PER,aprobado
+grupo energia bogota,Grupo Energía Bogotá,ORG,aprobado
+gustavo gallon,Gustavo Gallón,PER,aprobado
+irene velez,Irene Vélez,PER,aprobado
+iris marin,Iris Marín,PER,aprobado
+jaime andres beltran,Jaime Andrés Beltrán,PER,aprobado
+jhon duran,Jhon Durán,PER,aprobado
+jose antonio salazar,José Antonio Salazar,PER,aprobado
+jota pe hernandez,Jota Pe Hernández,PER,aprobado
+juan jose pelaez,Juan José Peláez,PER,aprobado
+júnior,Junior,ORG,aprobado
+libano,Líbano,LOC,aprobado
+luis mariano diaz,Luis Mariano Díaz,PER,aprobado
+narino,Nariño,LOC,aprobado
+natalia fernandez,Natalia Fernández,PER,aprobado
+popayan,Popayán,LOC,aprobado
+presidencia de la republica,Presidencia de la República,ORG,aprobado
+quibdo,Quibdó,LOC,aprobado
+quindio,Quindío,LOC,aprobado
+falcao,Radamel Falcao García,PER,aprobado
+falcao garcia,Radamel Falcao García,PER,aprobado
+james,James Rodríguez,PER,aprobado
+cristiano,Cristiano Ronaldo,PER,aprobado
+messi,Lionel Messi,PER,aprobado
+mbappe,Kylian Mbappé,PER,aprobado
+mbappé,Kylian Mbappé,PER,aprobado
+infantino,Gianni Infantino,PER,aprobado
+fajardo,Sergio Fajardo,PER,aprobado
+juanfer,Juan Fernando Quintero,PER,aprobado
+pibe,Pibe Valderrama,PER,aprobado
+el pibe,Pibe Valderrama,PER,aprobado
+valderrama,Pibe Valderrama,PER,aprobado
+cucho,Cucho Hernández,PER,aprobado
+dibu,Dibu Martínez,PER,aprobado
+milei,Javier Milei,PER,aprobado
+maduro,Nicolás Maduro,PER,aprobado
+netanyahu,Benjamin Netanyahu,PER,aprobado
+putin,Vladimir Putin,PER,aprobado
+starmer,Keir Starmer,PER,aprobado
+pogacar,Tadej Pogačar,PER,aprobado
+pogačar,Tadej Pogačar,PER,aprobado
+vingegaard,Jonas Vingegaard,PER,aprobado
+noboa,Daniel Noboa,PER,aprobado
+timochenko,Rodrigo Londoño,PER,aprobado
+republica checa,República Checa,LOC,aprobado
+sabana de bogota,Sabana de Bogotá,LOC,aprobado
+san jose del guaviare,San José del Guaviare,LOC,aprobado
+seleccion argentina,Selección Argentina,ORG,aprobado
+sofia vergara,Sofía Vergara,PER,aprobado
+victor chala,Víctor Chalá,PER,aprobado
+wilmar roldan,Wilmar Roldán,PER,aprobado
+alcaldía de medellín,Alcaldía de Medellín,ORG,aprobado
+ancelotti,Carlo Ancelotti,PER,aprobado
+atlético bucaramanga,Atlético Bucaramanga,ORG,aprobado
+banco de bogotá,Banco de Bogotá,ORG,aprobado
+concejo de medellín,Concejo de Medellín,ORG,aprobado
+efraín cepeda,Efraín Cepeda,PER,aprobado
+egan,Egan Bernal,PER,aprobado
+eljach,Gregorio Eljach,PER,aprobado
+enrique vargas lleras,Enrique Vargas Lleras,PER,aprobado
+federico gutiérrez,Federico Gutiérrez,PER,aprobado
+fico,Federico Gutiérrez,PER,aprobado
+fico gutiérrez,Federico Gutiérrez,PER,aprobado
+gabriel garcía márquez,Gabriel García Márquez,PER,aprobado
+gobernación de antioquia,Gobernación de Antioquia,ORG,aprobado
+grupo energía bogotá,Grupo Energía Bogotá,ORG,aprobado
+guillermo de amores,Guillermo de Amores,PER,aprobado
+gustavo bolívar,Gustavo Bolívar,PER,aprobado
+josé luis rodríguez zapatero,José Luis Rodríguez Zapatero,PER,aprobado
+juan felipe harman,Juan Felipe Harman,PER,aprobado
+león xiv,León XIV,PER,aprobado
+lotería del huila,Lotería del Huila,ORG,aprobado
+luis amaranto perea,Luis Amaranto Perea,PER,aprobado
+luiz inácio lula da silva,Luiz Inácio Lula da Silva,PER,aprobado
+margarita rosa de francisco,Margarita Rosa de Francisco,PER,aprobado
+maría camila osorio,María Camila Osorio,PER,aprobado
+maría camila potosí,María Camila Potosí,PER,aprobado
+mourinho,José Mourinho,PER,aprobado
+musk,Elon Musk,PER,aprobado
+pique,Gerard Piqué,PER,aprobado
+piqué,Gerard Piqué,PER,aprobado
+radamel falcao garcía,Radamel Falcao García,PER,aprobado
+scaloni,Lionel Scaloni,PER,aprobado
+senado de la república,Senado de la República,ORG,aprobado
+servicio geológico colombiano,Servicio Geológico Colombiano,ORG,aprobado
+sheinbaum,Claudia Sheinbaum,PER,aprobado
+volodímir zelenski,Volodímir Zelenski,PER,aprobado
+yulixa,Yulixa Toloza,PER,aprobado
+yulixa lozada,Yulixa Toloza,PER,aprobado
+yulixa tolosa,Yulixa Toloza,PER,aprobado
+yulixa toloza,Yulixa Toloza,PER,aprobado
+ángel di maría,Ángel Di María,PER,aprobado
+medellin,Medellín,LOC,aprobado
+medellín,Medellín,LOC,aprobado
+cucuta,Cúcuta,LOC,aprobado
+cúcuta,Cúcuta,LOC,aprobado
+ibague,Ibagué,LOC,aprobado
+ibagué,Ibagué,LOC,aprobado
+quibdó,Quibdó,LOC,aprobado
+popayán,Popayán,LOC,aprobado
+monteria,Montería,LOC,aprobado
+montería,Montería,LOC,aprobado
+ocana,Ocaña,LOC,aprobado
+ocaña,Ocaña,LOC,aprobado
+fiscalia,Fiscalía,ORG,aprobado
+fiscalía,Fiscalía,ORG,aprobado
+contraloria,Contraloría,ORG,aprobado
+contraloría,Contraloría,ORG,aprobado
+gobernacion,Gobernación,ORG,aprobado
+gobernación,Gobernación,ORG,aprobado
+ejercito,Ejército,ORG,aprobado
+ejército,Ejército,ORG,aprobado
+abelardo de la espriella,Abelardo de la Espriella,PER,aprobado
+alcaldia,Alcaldía,ORG,aprobado
+alcaldía,Alcaldía,ORG,aprobado

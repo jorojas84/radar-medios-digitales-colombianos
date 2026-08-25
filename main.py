@@ -1,4 +1,4 @@
-"""Punto de entrada de la aplicación."""
+"""Punto de entrada de la aplicación de recopilación de noticias."""
 
 import logging
 
